@@ -1,9 +1,4 @@
-import fs from 'fs';
-
 import { siteConfig } from '@/config';
-import { generateRss } from '@/scripts/generateRss';
-
-import { ArrowRightIcon } from '@/components/Icons';
 
 const title = 'Home | Junior Alves';
 const description = 'Blog onde falo sobre livros e código';
